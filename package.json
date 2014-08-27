@@ -16,7 +16,7 @@
     "wildemitter": "^1.0.0",
     "getusermedia": "0.2.x",
     "getscreenmedia": "^1.0.0",
-    "hark": "^1.0.0",
+    "hark": "git://github.com/sylturner/hark.git",
     "mediastream-gain": "git://github.com/sylturner/mediastream-gain.git",
     "mockconsole": "0.0.x"
   },
